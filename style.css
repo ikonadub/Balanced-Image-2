@@ -1,0 +1,63 @@
+ body {
+background-color: #ec500df0;
+}
+
+h1 {
+  text-transform: capitalize;
+  font-size: 7rem;
+  text-align: center;
+  color:#130802;
+}
+
+h2 {
+  text-transform: lowercase;  
+  font-size: 5rem;
+  text-align: center;
+  color: #130802;
+  border-radius: 10px;
+  font-family: "Libre Baskerville", serif; 
+}
+
+ .creative-img {
+  display: block;
+  width: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 4rem;
+}
+
+.creative-img { 
+  border: 5px solid #14056bf0;
+  width: 90%;
+}
+
+h3 {
+  font-size: 1rem;
+  text-align: center;
+  color: #130802
+  font-family: "Libre Baskerville", serif; 
+  margin: 70px auto; /* Adds space around the paragraph */
+  max-width: 800px; /* Limits the width for better readability */
+}
+
+h4 {
+  font-size: 1rem;
+  color:#130802
+  text-align: left;
+  font-family: "Libre Baskerville", serif;
+  bottom: 100px; /*Positioning from the bottom */
+  width: 100%; /*Ensures footer spans the entire width */
+  background-color: #ffa93911 /* Footer background color */
+} 
+
+footer {
+    text-align: center;
+}
+
+.picker-icon {
+    text-align: center;
+}
+
+nav {
+  text-align: center;
+}
